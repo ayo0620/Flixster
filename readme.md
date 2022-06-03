@@ -40,7 +40,6 @@ GIF created with [Kap](https://getkap.co/).
 
 Describe any challenges encountered while building the app.
 - Layout orientation
-- 
 
 ## Open-source libraries used
 
@@ -49,7 +48,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Ayomide Adewuyi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
